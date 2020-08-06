@@ -1,0 +1,14 @@
+# mysql的配置参数
+mysql:
+  user: "root"
+  password: "admin"
+  port: 3306
+  host: "192.168.0.236"
+  db: "automation"
+  charset: "utf8"
+
+# 服务器地址
+service_host: 192.168.0.62
+
+# 服务器端口
+service_port: 5000
